@@ -1,6 +1,6 @@
 # JOLM - Java Object LDAP Mapping
 
-This is a little library built on top of Spring LDAP to provide more convinient way of accessing LDAP using Spring framework. 
+This is a little library built on top of Spring LDAP to provide more convenient way of accessing LDAP using Spring framework. 
 
 Consists of two components:
 
